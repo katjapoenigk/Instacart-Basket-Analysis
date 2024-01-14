@@ -40,7 +40,7 @@ For this project, the following Python libraries were used:
 - Creating repositories on GitHub
 
  ## Project Deliverables
-[Final report] including: (https://github.com/katjapoenigk/Instacart-Basket-Analysis/blob/e2ddd14c32dd31ad61bbd3d031f90fbeb7d41363/05%20Sent%20to%20client/Instacart_final_report_Katja%20Poenigk.xlsx)
+[Final report](https://github.com/katjapoenigk/Instacart-Basket-Analysis/blob/e2ddd14c32dd31ad61bbd3d031f90fbeb7d41363/05%20Sent%20to%20client/Instacart_final_report_Katja%20Poenigk.xlsx) including: 
 -  Population flow
 -  Data consistency checks
 -  Data wrangling steps
